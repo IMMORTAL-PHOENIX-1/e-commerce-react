@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # MyShop
 
 A simple e-commerce front end built with React, Vite, and Tailwind CSS. Product data comes live from the [dummyjson.com](https://dummyjson.com) API; cart, orders, and order tracking are handled client-side.
@@ -61,4 +63,8 @@ src/
 
 ## License
 
-No license specified — add one if you plan to make this public and want to define reuse terms.
+# No license specified — add one if you plan to make this public and want to define reuse terms.
+
+# e-commerce-react
+
+> > > > > > > 008027bc4558d90598c626e42bdaff35af3bc420
